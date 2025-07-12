@@ -7,6 +7,12 @@
 <p align="center">
   🚀 Final-year B.Tech CSE Student &nbsp;|&nbsp; 📊 Aspiring Data Analyst &nbsp;|&nbsp; 💻 Coder &nbsp;|&nbsp; ✍️ Writer &nbsp;|&nbsp; 💡 DSA Enthusiast
 </p>
+👋 About Me
+
+<p align="left">
+  I am Srishti Singh, a final year B.Tech CSE student aspiring to be a Data Analyst.  
+  I'm passionate about exploring data, solving DSA problems, building meaningful solutions, and blending technology with creativity.
+</p>
 
 ---
 
