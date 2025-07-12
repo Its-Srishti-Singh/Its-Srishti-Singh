@@ -51,8 +51,12 @@
 </p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-Srishti-Singh/Its-Srishti-Singh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Its-Srishti-Singh/Its-Srishti-Singh/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Its-Srishti-Singh/Its-Srishti-Singh/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center"><em>"Passionate about turning data into insights, and ideas into code."</em></p>
 
 ---
 
